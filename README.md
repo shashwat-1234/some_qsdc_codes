@@ -2,4 +2,4 @@
 
 This repsitory is to upload the codes made by Shashwat Shukla on QSDC is Quantum Secure Direct Communication
 
-The first File named Qsdc_file_1.ipynb implements the rough outline of basic QSDC protocol
+The first folder QSDC_Protocol-1 consist of the pdf folders and the implementation of MDI QSDC Protocol
